@@ -6,7 +6,7 @@
 
 Amidst the escalating threat of global warming, California faces an ever-pressing challenge: drought. In this pivotal moment, our project attempts to use key weather variables, such as temperature, humidity, and air pressure, to predict drought intensity multiple months into the future with the use of various machine learning models. These timely estimates will enable local government agencies to implement preventative measures, such as water conservation, agricultural planning, and disaster preparedness.
 
-Project Website: 
+Project Website: https://sites.google.com/berkeley.edu/berkeley-mids-drought-predict
 
 ### How to use this repository
 The repository contains the following files:
